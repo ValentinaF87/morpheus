@@ -2,58 +2,47 @@
 
 > Nice to meet you, Morpheus.
 
-Morpheus is a personal AI decision support framework designed to reduce information overload and help people make better decisions.
+Morpheus is an ongoing experiment in AI-assisted decision making.
 
-It started from a very personal challenge.
+It started from a very personal challenge: limited time, information overload, and the need to make better decisions with less cognitive effort.
 
-I had just become a mum.
-I wanted to learn Agentic AI.
-I was looking for a new professional opportunity.
-And I only had my daughter's nap times to make all of that happen.
+The first use case is **Job Discovery**.
 
-Instead of choosing between learning and job hunting, I decided to build something that could help me do both.
+Morpheus helps me collect job opportunities, evaluate them against a configurable profile, receive concise recommendations, and collect human feedback to improve future evaluations.
 
-The first use case of Morpheus is **Job Discovery**.
+## What Morpheus does today
 
-It automatically:
+- Collects job alerts from Gmail
+- Extracts multiple job opportunities from the same email
+- Retrieves job descriptions
+- Evaluates each opportunity with AI
+- Sends concise summaries via Telegram
+- Stores processed opportunities
+- Collects human feedback
+- Builds a feedback dataset for future analysis
 
-- collects job opportunities
-- extracts job descriptions
-- evaluates opportunities using AI
-- prioritizes what deserves attention
-- delivers concise summaries via Telegram
-- collects human feedback to continuously improve future evaluations
+## What Morpheus is not
 
-The goal is **not** to replace human judgment.
+Morpheus is not designed to make decisions for people.
 
-The goal is to reduce cognitive load, filter information, and let humans spend their time making better decisions.
+It is designed to reduce information overload and support better human decisions.
 
----
+## Principles
+
+- AI should reduce cognitive load
+- Humans make the final decision
+- Every recommendation should be explainable
+- Feedback is more valuable than prompts
+- Better decisions come from better information, not more information
 
 ## Current status
 
-Morpheus is currently a personal project actively used every day.
+Morpheus is currently a personal prototype actively used in daily life.
 
-At the moment this repository focuses on documenting:
+This public repository documents the project vision, architecture, roadmap, design decisions, and lessons learned.
 
-- the project vision
-- architecture
-- design decisions
-- roadmap
-- lessons learned
-
-Private data, prompts and personal datasets are intentionally excluded.
-
----
-
-## Philosophy
-
-Morpheus does not make decisions for people.
-
-It helps people make better decisions.
-
----
+Private data, real prompts, credentials, and personal datasets are intentionally excluded.
 
 ## Roadmap
 
-See `ROADMAP.md`.
+See [ROADMAP.md](ROADMAP.md).
