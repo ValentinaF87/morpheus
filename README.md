@@ -41,7 +41,7 @@ Private data, real prompts, credentials, and personal datasets are intentionally
 
 ## Learn more
 
-- [Why Morpheus exists](WHY.md)
+- [Mission](MISSION.md)
 - [Philosophy](PHILOSOPHY.md)
 - [Architecture](ARCHITECTURE.md)
 - [Roadmap](ROADMAP.md)
