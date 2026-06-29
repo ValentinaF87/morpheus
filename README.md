@@ -1,14 +1,12 @@
 # Morpheus
 
-> Nice to meet you, Morpheus.
+> Morpheus helps people spend their attention where it matters most.
 
-Morpheus is an ongoing experiment in AI-assisted decision making.
+Better decisions don't come from having more information: they come from knowing what deserves your attention.
 
-It started from a very personal challenge: limited time, information overload, and the need to make better decisions with less cognitive effort.
+Morpheus is a personal AI decision support framework designed to reduce information overload and support better human decision making.
 
-The first use case is **Job Discovery**.
-
-Morpheus helps me collect job opportunities, evaluate them against a configurable profile, receive concise recommendations, and collect human feedback to improve future evaluations.
+The first use case is **Job Discovery**: helping me evaluate professional opportunities without having to choose between being thorough and being efficient.
 
 ## What Morpheus does today
 
@@ -25,15 +23,13 @@ Morpheus helps me collect job opportunities, evaluate them against a configurabl
 
 Morpheus is not designed to make decisions for people.
 
-It is designed to reduce information overload and support better human decisions.
-
 ## Principles
 
-- AI should reduce cognitive load
-- Humans make the final decision
-- Every recommendation should be explainable
-- Feedback is more valuable than prompts
-- Better decisions come from better information, not more information
+- AI should reduce cognitive load.
+- Humans make the final decision.
+- Every recommendation should be explainable.
+- Feedback is more valuable than prompts.
+- Better decisions come from better attention, not more information.
 
 ## Current status
 
@@ -43,6 +39,9 @@ This public repository documents the project vision, architecture, roadmap, desi
 
 Private data, real prompts, credentials, and personal datasets are intentionally excluded.
 
-## Roadmap
+## Learn more
 
-See [ROADMAP.md](ROADMAP.md).
+- [Why Morpheus exists](WHY.md)
+- [Philosophy](PHILOSOPHY.md)
+- [Architecture](ARCHITECTURE.md)
+- [Roadmap](ROADMAP.md)
