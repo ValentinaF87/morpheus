@@ -80,6 +80,4 @@ Examples include:
 - house hunting
 - personal productivity
 
-The use cases may change.
-
-The philosophy does not.
+The use cases may change, the philosophy does not.
